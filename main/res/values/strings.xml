@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Note App</string>
+    <string name="string_title">Easy Notes</string>
+    <string name="string_startButton">Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_myNotes">My notes</string>
+    <string name="enter_your_note_title">Enter your note title</string>
+    <string name="enter_your_note_here">Enter your note here</string>
+    <string name="save_note">Save Note</string>
+    <string name="create_a_new_note">Create a new note</string>
+    <string name="newNoteDescription">New</string>
+    <string name="description_startButton">Start app</string>
+    <string name="description_saveNoteButton">save note button</string>
+</resources>
